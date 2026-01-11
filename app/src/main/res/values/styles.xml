@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- SETTING ITEM -->
+    <style name="SettingItem">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">56dp</item>
+        <item name="android:layout_marginHorizontal">24dp</item>
+        <item name="android:layout_marginTop">16dp</item>
+        <item name="android:background">@drawable/bg_note_card</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:padding">16dp</item>
+    </style>
+
+    <!-- SETTING TEXT -->
+    <style name="SettingText">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#2A5CFF</item>
+    </style>
+
+</resources>

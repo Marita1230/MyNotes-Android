@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- APP -->
+    <string name="app_name">MyNotes</string>
+
+    <!-- SPLASH -->
+    <string name="title_splash">MyNotes</string>
+    <string name="subtitle_splash">Your simple daily note companion</string>
+    <string name="btn_get_started">Get Started</string>
+    <string name="lang_selector">EN | ID</string>
+
+    <!-- LOGIN -->
+    <string name="welcome_back">Welcome Back</string>
+    <string name="login_subtitle">Please log in to continue</string>
+    <string name="hint_email">Enter your email</string>
+    <string name="hint_password">Enter your password</string>
+    <string name="btn_login">Log In</string>
+    <string name="sign_up_prompt">Don’t have an account? Sign Up</string>
+    <string name="forgot_password">Forgot Password?</string>
+
+    <!-- HOME / MAIN -->
+    <string name="title_home">MyNotes</string>
+    <string name="your_notes">Your Notes</string>
+    <string name="meeting_summary">Meeting Summary</string>
+    <string name="dummy_content">
+        Notes from today’s discussion about project timeline ...
+    </string>
+
+    <!-- ADD NOTE -->
+    <string name="add_note">Add Note</string>
+    <string name="hint_title">Enter title here</string>
+    <string name="hint_content">Write your note here ...</string>
+    <string name="save_note">Save Note</string>
+
+    <!-- NOTE DETAIL -->
+    <string name="note_detail">Note Detail</string>
+    <string name="note_title">Note Title</string>
+    <string name="dummy_detail_content">
+        This is your saved note content area, you can view your full note here in detail.
+    </string>
+    <string name="dummy_date">Nov 9, 2026</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+
+    <!-- SETTINGS -->
+    <string name="settings">Settings</string>
+    <string name="language">Language</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="notifications">Notifications</string>
+    <string name="logout">Log Out</string>
+
+    <!-- PROFILE -->
+    <string name="profile_name_email">Marita\nmarita@example.co</string>
+
+    <!-- CONTENT DESCRIPTION (ACCESSIBILITY) -->
+    <string name="cd_menu">Menu</string>
+    <string name="cd_add_note">Add Note</string>
+    <string name="cd_home">Home</string>
+    <string name="cd_chart">Chart</string>
+    <string name="cd_settings">Settings</string>
+    <string name="cd_back">Back</string>
+
+</resources>

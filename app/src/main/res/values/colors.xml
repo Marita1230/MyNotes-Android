@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="primary_blue">#4C8BF5</color>
+    <color name="soft_blue">#A3CEF1</color>
+    <color name="text_dark">#2D3142</color>
+    <color name="text_gray">#6B7280</color>
+    <color name="text_blue">#4C8BF5</color>
+    <color name="text_hint">#6B7280</color>
+    <color name="input_background">#E9F2FF</color>
+    <color name="input_stroke">#B9D6F2</color>
+
+    <color name="header_blue">#2A5CFF</color>
+    <color name="card_bg">#E9F0FF</color>
+    <color name="nav_dark">#2D3142</color>
+    <color name="note_title">#000000</color>
+    <color name="note_body">#444444</color>
+</resources>
