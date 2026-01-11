@@ -17,3 +17,12 @@ pengguna mencatat dan mengelola catatan harian.
 - Edit & hapus catatan
 - Halaman Settings
 
+## 🎥 Video UX & Demo Aplikasi
+
+- UX Flow & User Testing:
+  https://youtu.be/4_-d2EeDNFk?si=cH7k34k2TR1XesYS 
+
+- Demo Aplikasi MyNotes:
+  https://youtu.be/_6KCkT94RiI?si=PChedoujDN9FZ8P7 
+
+
